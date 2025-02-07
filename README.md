@@ -3,6 +3,7 @@
 
 This project is a Facebook clone built using Tailwind CSS, HTML, and JavaScript. It replicates Facebook's login and account creation features with a responsive design and interactive UI elements.
 
+# The live working link for the project is: http://localhost:5173/
 ## Features
 - Responsive design
 - Login and account creation forms
